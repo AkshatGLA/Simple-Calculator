@@ -1,0 +1,19 @@
+input{
+    height:70px;
+    width:70px;
+    font-size:xx-large;
+    background-color: grey;
+    border-radius: 10px;
+}
+#display{
+    height:70px;
+    width:320px;
+    background-color:aqua;
+
+}#display:hover,input:hover{
+    background-color:lawngreen;
+}table,th{
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 400px;
+}
